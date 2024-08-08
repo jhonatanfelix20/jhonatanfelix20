@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hey guys! My name is Jhonatan Felix and I'm a software developer and a student of Systems Analysis and Development, from Brazil</h2>
+<h2 align="center">Hey guys! My name is Jhonatan Felix and I'm a software developer and a student of Systems Analysis and Development, from Brazil</h2>
 
 ###
 <div>
@@ -67,8 +67,6 @@
   <a href="mailto:jhonatan.felix@fatec.sp.gov.br"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" target="_blank"></a>
 </div>
 
-###
-![Snake animatioon](https://github.com/jhonatanfelix20
-###
 
-###
+![Snake animatioon](https://github.com/jhonatanfelix20/jhonatanfelix20/blob/output/github-contribution-grid-snake.svg)
+
